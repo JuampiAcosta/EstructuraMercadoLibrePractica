@@ -1,6 +1,10 @@
-body{font-family: 'Roboto'}
-  #precios{font-size: 18px}
-  #Cuerposdetexto{font-size: 24px}
-  #Titulares{font-size: 18px}
+body{
+background-color: #eac926;
+font-family:'Roboto';}
+p{text-align:center;}
+h3{text-align:center;}
+  #Precios{font-size: 18px}
+  #Titulares{font-size: 24px}
   #Descuentos{font-size: 16px}
   #Descripciones{font-size: 16px}
+  #Cuerposdetexto{font-size: 12px}
