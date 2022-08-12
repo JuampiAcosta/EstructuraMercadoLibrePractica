@@ -11,4 +11,4 @@ app.get('/', (req,res)=>{
 });
 
 // Se levanta el servidor
-app.listen( 3000);
+app.listen( 3000,console.log("El Servidor esta funcionando"));
