@@ -1,11 +1,12 @@
 body{
 background-color: #eac926;
 font-family:'Roboto';}
-p{text-align:center;}
+#barra{text-align:center;}
+#compra{text-align:center;}
 h3{text-align:center;}
   #Precios{font-size: 18px}
   #Titulares{font-size: 24px}
   #Descuentos{font-size: 16px}
   #Descripciones{font-size: 16px}
   #Cuerposdetexto{font-size: 12px}
-  li{text-align:center}
+  li{text-align:justify}
