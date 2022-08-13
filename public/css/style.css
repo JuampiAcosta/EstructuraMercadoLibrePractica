@@ -1,4 +1,4 @@
-body{
+header{
 background-color: #eac926;
 font-family:'Roboto';}
 #barra{text-align:center;}
@@ -11,3 +11,5 @@ h3{text-align:center;}
   #Cuerposdetexto{font-size: 12px}
   li{text-align:justify}
 footer{text-align:center}
+#icono{color: #1259c3}
+#logo{height:50%}
