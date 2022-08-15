@@ -12,6 +12,16 @@ h3{text-align:center;}
   li{text-align:justify}
 footer{text-align:center}
 #icono{color: #1259c3}
-#icono3{color: #1259c3;
-}
 #logo{height:50%}
+#icono3{background-color: #1259c3;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: fit-content;
+    margin: 0 auto;
+}
