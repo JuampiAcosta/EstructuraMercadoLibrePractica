@@ -173,6 +173,8 @@ article div.main-article{
     padding: 15px;
 }
 
+.footer{text-align: center; }
+.footer i{width: 2em; margin: 10px;color: #0044AA; align-items: center;}
 @media (min-width: 361px){
     main section article .description{
         display: block;
