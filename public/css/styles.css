@@ -111,6 +111,7 @@ div.offers{
     font-size: 16px;
     font-weight: normal;
 }
+.register{text-align: left; padding: 15%; justify-content: space-between;}
 
 h3,
 .description{
@@ -183,7 +184,7 @@ header nav{display: none;}
     main section article .description{
         display: block;
     }
-.login{text-align: center;}
+.login{text-align: center; padding: 15%;}
 
     main section article{
         box-shadow: 0px 0px 10px rgb(100, 100, 100);
